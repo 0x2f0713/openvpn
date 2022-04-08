@@ -1,0 +1,6 @@
+networking_iproute2.o: networking_iproute2.c /usr/include/stdc-predef.h \
+ ../../config.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:
